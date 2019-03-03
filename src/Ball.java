@@ -6,7 +6,7 @@ public class Ball {
 	Point p;
 	int speed=100;
 	double alpha=0.5;
-	
+	//ball
 	public Ball(){
 		p = new Point();
 	}
